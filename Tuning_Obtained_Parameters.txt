@@ -1,0 +1,38 @@
+PART A
+
+Robust Response
+Kc = 0.020795
+taui = 9.8
+
+IAE: 78.544
+
+Skogestad IMC
+Kc = 0.029138
+taui = 9.9
+
+IAE: 56.6271
+
+Ziegler-Nicholls Step Response
+Kc = 0.060566
+tau_i = 8.6
+
+IAE: 23.6566
+
+Ziegler-Nicholls Step Response is BETTER
+
+
+PART B
+
+IMPROVED PARAMETERS
+
+Skogestad IMC
+Kc = 0.2426
+taui = 9.9
+
+IAE: 8.9638
+
+Ziegler-Nicholls Step Response
+Kc = 0.2200
+tau_i = 8.6
+
+IAE: 9.4555
